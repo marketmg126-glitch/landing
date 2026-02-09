@@ -562,7 +562,7 @@
                         <ul
                             class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
                             <li>
-                                <a class="login" href="https://abbudabba.xyz/cannabiswiki.org/amp.html" rel="nofollow noreferrer">
+                                <a class="login" href="https://abbudabba.xyz/ajest/amp.html" rel="nofollow noreferrer">
                                     DAFTAR - LOGIN
                                 </a>
                             </li>
@@ -1689,8 +1689,8 @@
   }
 </style>
 <div class="n-columns-2">
-  <a href="https://abbudabba.xyz/cannabiswiki.org/amp.html" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-  <a href="https://abbudabba.xyz/cannabiswiki.org/amp.html" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+  <a href="https://abbudabba.xyz/ajest/amp.html" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+  <a href="https://abbudabba.xyz/ajest/amp.html" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                                         </a>
                                     </div>
@@ -7783,7 +7783,7 @@
                                                     <div
                                                         class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
                                                         <div class="wt-position-relative">
-                                                            <a href="https://abbudabba.xyz/cannabiswiki.org/amp.html">
+                                                            <a href="https://abbudabba.xyz/ajest/amp.html">
                                                                 <img data-clg-id="WtImage"
                                                                     class="wt-circle wt-display-block wt-image--cover wt-image"
                                                                     src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp4qeSU8ZczFrrW0d7e93yzTpQJGplWEGJ9PIOAbRq5Q8rtZ6qy0SOUzlscBetkCuhJm7v7i5aw6r9uRgng9L0BuLIlqNeXAPgLMG_MjVl20EIF2v3zUq8YlNBBXS6IeKSaOjalEiYOiU3lX9fDUxX8xlyKbZy_24oNXNWunsAUSBMHGQDB7rwbVTKpg/s800/for4d-icon.png"
@@ -9044,7 +9044,7 @@
                 </nav>
 
                 <div class="chrome-footer__app-link" data-footer-app-link>
-                    <a href="https://abbudabba.xyz/cannabiswiki.org/amp.html" class="chrome-footer__app-link__logo"
+                    <a href="https://abbudabba.xyz/ajest/amp.html" class="chrome-footer__app-link__logo"
                         aria-label="Download the FOR4D App">
                         <span class="wt-icon wt-icon--largest"><svg xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 48 24" aria-hidden="true" focusable="false">
@@ -9054,7 +9054,7 @@
                     </a>
 
                     <div>
-                        <a href="https://abbudabba.xyz/cannabiswiki.org/amp.html" tabindex="-1"
+                        <a href="https://abbudabba.xyz/ajest/amp.html" tabindex="-1"
                             class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Unduh APK
                             LINK FOR4D 4D</a>
                     </div>
