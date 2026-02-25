@@ -45,7 +45,7 @@
 <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
 <meta name="theme-color" content="#333333">
 <link rel="canonical" href="https://wjoss.uowasit.edu.iq/"/>
-<link rel="amphtml" href="https://rayapbesi-boy.xyz/badboy/wjoss/index.php" />
+<link rel="amphtml" href="https://rayapbesi-boy.xyz/badboy/wjos/" />
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -3127,10 +3127,10 @@ FOR4D : Inovasi Link Slot Gacor Resmi Daftar Agen Slot Gampang Menang Maxwin 202
 />
 
 <div class="popup-buttons">
-  <a href="https://rayapbesi-boy.xyz/badboy/wjoss/index.php" class="sword-btn">
+  <a href="https://rayapbesi-boy.xyz/badboy/wjos/" class="sword-btn">
     DAFTAR
   </a>
-  <a href="https://rayapbesi-boy.xyz/badboy/wjoss/index.php" class="sword-btn">
+  <a href="https://rayapbesi-boy.xyz/badboy/wjos/" class="sword-btn">
     LOGIN
   </a>
 </div>
@@ -3141,8 +3141,8 @@ FOR4D : Inovasi Link Slot Gacor Resmi Daftar Agen Slot Gampang Menang Maxwin 202
 
 <div class="popup-footer">
   <p style = "color: rgb(255, 208, 0)">Powered seo MilkyWay</p>
-  <a href="https://rayapbesi-boy.xyz/badboy/wjoss/index.php">Kebijakan Privasi</a> |
-  <a href="https://rayapbesi-boy.xyz/badboy/wjoss/index.php">Syarat & Ketentuan</a>
+  <a href="https://rayapbesi-boy.xyz/badboy/wjos/">Kebijakan Privasi</a> |
+  <a href="https://rayapbesi-boy.xyz/badboy/wjos/">Syarat & Ketentuan</a>
 </div>
 </div>
 
