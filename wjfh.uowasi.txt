@@ -14,7 +14,7 @@
 	<meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
 	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
-	<link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq2T8XZX6M03vhig6B_Nm1TeF4zTXmdm8QBMXtCHvo_wAR6GrGSrYlOZwJWqTxLOa8ezQKHUoX7yrRFC7whllJ20dbPP079A_RyILcQECMJqPYkm_Xy0J0TYfxBc83Vu_vY0s-idU1tYDgeMPAJ-xsKX8JXzILHALvZsoLUgoHFbTnVNmcCqw3y2ZZqA/s800/for4d-icon.png">
+	<link rel="shortcut icon" href="https://wjfh.uowasit.edu.iq/public/journals/1/favicon_ar_IQ.png">
 	<link rel="icon" type="image/webp" sizes="32x32" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq2T8XZX6M03vhig6B_Nm1TeF4zTXmdm8QBMXtCHvo_wAR6GrGSrYlOZwJWqTxLOa8ezQKHUoX7yrRFC7whllJ20dbPP079A_RyILcQECMJqPYkm_Xy0J0TYfxBc83Vu_vY0s-idU1tYDgeMPAJ-xsKX8JXzILHALvZsoLUgoHFbTnVNmcCqw3y2ZZqA/s800/for4d-icon.png">
 	<link rel="icon" type="image/webp" sizes="16x16" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq2T8XZX6M03vhig6B_Nm1TeF4zTXmdm8QBMXtCHvo_wAR6GrGSrYlOZwJWqTxLOa8ezQKHUoX7yrRFC7whllJ20dbPP079A_RyILcQECMJqPYkm_Xy0J0TYfxBc83Vu_vY0s-idU1tYDgeMPAJ-xsKX8JXzILHALvZsoLUgoHFbTnVNmcCqw3y2ZZqA/s800/for4d-icon.png">
 	<link rel="apple-touch-icon" sizes="180x180" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq2T8XZX6M03vhig6B_Nm1TeF4zTXmdm8QBMXtCHvo_wAR6GrGSrYlOZwJWqTxLOa8ezQKHUoX7yrRFC7whllJ20dbPP079A_RyILcQECMJqPYkm_Xy0J0TYfxBc83Vu_vY0s-idU1tYDgeMPAJ-xsKX8JXzILHALvZsoLUgoHFbTnVNmcCqw3y2ZZqA/s800/for4d-icon.png">
