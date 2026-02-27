@@ -7,7 +7,7 @@
 <link rel="icon" type="image/x-icon" href="file:///E:/RAJA/Downloads/favicon.ico" />
 <link rel="apple-touch-icon" href="file:///E:/RAJA/Downloads/favicon.ico">
 <link rel="canonical" href="https://wjfh.uowasit.edu.iq/">
-<link rel="amphtml" href="https://piona.xyz/amp/wjfh/" />
+<link rel="amphtml" href="https://abbudabba.xyz/wjfh.uowasi/amp.html" />
 <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeu7rMFxbNXDZtGzOr7wFPqJ_kUHIAM-QMtnnABnuLmf_EAgL1qIAKdKQ2gAp4UOio_uGx2EmCI0sU15hM_A4nZHXMEOyeYJ6IfgnbLGIG5tBLE4OzKZfGq4_az3e3YargLYKCFpY84yWEYWMeACrpWJQb2QjamCv11kLqfzqiABnoP8wyML91JxLF4w/s800/97faee7b-e9e7-4512-8eb0-2540b3d4a645-md.jpeg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -229,7 +229,7 @@ ga('require', 'GTM-KL7BC3L');
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://piona.xyz/amp/wjfh/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://abbudabba.xyz/wjfh.uowasi/amp.html" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR AKUN
 
@@ -353,9 +353,9 @@ TOTO 4D
 
         
                           <div class="n-columns-2">
-                                <a href="https://piona.xyz/amp/wjfh/" rel="nofollow noreferrer"
+                                <a href="https://abbudabba.xyz/wjfh.uowasi/amp.html" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://piona.xyz/amp/wjfh/" rel="nofollow noreferrer"
+                               <a href="https://abbudabba.xyz/wjfh.uowasi/amp.html" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -652,8 +652,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://piona.xyz/amp/wjfh/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://piona.xyz/amp/wjfh/" class="btn-x">LOGIN DISINI</a>
+<a href="https://abbudabba.xyz/wjfh.uowasi/amp.html" class="btn-x">DAFTAR DISINI</a>
+<a href="https://abbudabba.xyz/wjfh.uowasi/amp.html" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
