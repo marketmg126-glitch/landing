@@ -306,7 +306,8 @@
       "url": "https://aksesharian.com/",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg"
     },
-    {"@type": "WebSite",
+    {
+      "@type": "WebSite",
       "@id": "https://aksesharian.com/#website",
       "url": "https://aksesharian.com/",
       "name": "FOR4D",
@@ -832,7 +833,8 @@
          body:has(.shopify-section-group-footer-group) {
          display: grid;
          grid-template-rows: auto auto 1fr auto;
-         grid-template-columns: 100%;}
+         grid-template-columns: 100%;
+         }
          @media screen and (min-width: 750px) {
          body {
          font-size: 1.6rem;
@@ -965,9 +967,10 @@
                   BISA DIAKSES DI SELURUH DI BELAHAN BUMI MANAPUN TERMASUK INDONESIA!
                </div>
             </div>
-         </div><style>
+         </div>
+         <style>
             .hura-messages.swiper-wrapper{display:none}.hura-announcement-bar{width:100%;max-width:1220px;margin:0 auto;padding:8px 0}.hura-announcement-bar .slick-track{display:flex;align-items:center}.hura-messages.swiper-wrapper.slick-initialized.slick-slider{display:flex} div#shopify-section-announcement_bar_slider {background:#424245;} .hura-announcement-bar .hura-message{text-align:center;align-self: center;font-size:12px;line-height: 14px;color:#000000;padding-left: 24px;padding-right: 24px;} .hura-announcement-bar .swiper-button-next:after, .hura-announcement-bar .swiper-container-rtl .swiper-button-prev:after,.hura-announcement-bar .swiper-button-prev:after, .hura-announcement-bar .swiper-container-rtl .swiper-button-next:after{font-size: 15px;color:#ffffff;} .hura-messages .slick-prev:before, .hura-messages .slick-next:before {color: #ffffff !important;opacity: 1;} .hura-messages .slick-prev:before {content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.16164 10.3233L6 9.48493L1.67671 5.16164L6 0.838358L5.16164 0L0 5.16164L5.16164 10.3233Z' fill='white'/%3E%3C/svg%3E%0A");} .hura-messages .slick-next:before {content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.838356 0.676713L-8.46107e-07 1.51507L4.32329 5.83836L-9.01992e-08 10.1616L0.838357 11L6 5.83836L0.838356 0.676713Z' fill='white'/%3E%3C/svg%3E%0A");} div.hura-swiper-button { display:block; align-items: center;}
-            .slick-next,.slick-next:focus,.slick-next:hover,.slick-prev,.slick-prev:focus,.slick-prev:hover{color:transparent;outline:0;background:0 0}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:20px;height:20px;padding:0;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%);cursor:pointer;border:none;z-index:1}.slick-next:focus:before,.slick-next:hover:before,.slick-prev:focus:before,.slick-prev:hover:before{opacity:1}.slick-next.slick-disabled:before,.slick-prev.slick-disabled:before{opacity:.25}.slick-next:before,.slick-prev:before{font-family:slick;font-size:20px;line-height:1;opacity:.75;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-prev{left:0}[dir=rtl] .slick-prev{right:-25px;left:auto}.slick-prev:before,[dir=rtl] .slick-next:before{content:'←'}.slick-next:before,[dir=rtl] .slick-prev:before{content:'→'}.slick-next{right:0}[dir=rtl] .slick-next{right:auto;left:-25px}.announcement_link {	color: #d0d0d0 !important; text-decoration: none;	}
+            .slick-next,.slick-next:focus,.slick-next:hover,.slick-prev,.slick-prev:focus,.slick-prev:hover{color:transparent;outline:0;background:0 0}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:20px;height:20px;padding:0;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%);cursor:pointer;border:none;z-index:1}.slick-next:focus:before,.slick-next:hover:before,.slick-prev:focus:before,.slick-prev:hover:before{opacity:1}.slick-next.slick-disabled:before,.slick-prev.slick-disabled:before{opacity:.25}.slick-next:before,.slick-prev:before{font-family:slick;font-size:20px;line-height:1;opacity:.75;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-prev{left:0}[dir=rtl] .slick-prev{right:-25px;left:auto}.slick-prev:before,[dir=rtl] .slick-next:before{content:'â†'}.slick-next:before,[dir=rtl] .slick-prev:before{content:'â†’'}.slick-next{right:0}[dir=rtl] .slick-next{right:auto;left:-25px}.announcement_link {	color: #d0d0d0 !important; text-decoration: none;	}
             @media screen and (max-width:749px){.slick-prev{left:-21px}.slick-next{right:-21px}.hura-announcement-bar{margin:inherit;padding:8px 30px;height:auto}}
          </style>
 		 
@@ -1295,7 +1298,7 @@
                   >
                   <div class="my-store-locator__icon">
                      <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none">
-                        <path d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.70561.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z" fill="#1D1D1F"/>
+                        <path d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z" fill="#1D1D1F"/>
                         <path d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z" fill="#1D1D1F"/>
                         <path d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z" fill="#1D1D1F"/>
                         <path d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z" fill="#1D1D1F"/>
@@ -1418,7 +1421,8 @@
                                     fill="currentColor"
                                     >
                               </svg>
-                           </span></summary>
+                           </span>
+                        </summary>
                         <div
                            id="menu-drawer"
                            class="gradient menu-drawer motion-reduce color-background-1"
@@ -1645,7 +1649,8 @@
                            class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
                            aria-haspopup="dialog"
                            >
-                        Select another store</button>
+                        Select another store
+                        </button>
                      </div>
                   </div>
                </my-store-locator>
@@ -2179,7 +2184,8 @@
                            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1731636011&width=100"
                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
-                           height="84"width="84"
+                           height="84"
+                           width="84"
                            loading="lazy"
                            alt="Situs toto 4D ONLINE"
                            >
@@ -2296,7 +2302,8 @@
                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887" rel="stylesheet" type="text/css" media="all" />
                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.css?v=48221248546321444771742784887" rel="stylesheet" type="text/css" media="all" />
                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-sellto.css?v=107184028641227493051757586003" rel="stylesheet" type="text/css" media="all" />
-               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-dialog.css?v=16175248172835987831757430081" rel="stylesheet" type="text/css" media="all" /><style data-shopify>.section-template--17605519376564__main-padding {
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-dialog.css?v=16175248172835987831757430081" rel="stylesheet" type="text/css" media="all" />
+               <style data-shopify>.section-template--17605519376564__main-padding {
                   padding-top: 27px;
                   padding-bottom: 9px;
                   }
@@ -2435,7 +2442,8 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823" alt="SITUS TOTO" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"></div>
+                                          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823" alt="SITUS TOTO" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040156340">
                                        <span class="visually-hidden">
                                        Open media 2 in modal
@@ -2725,7 +2733,8 @@
                                           <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823" alt="Situs toto 4D" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSF7MVxwDZDARNrr5UX81LJhJpUpgJNkIlUD21DUHEuM5Bf2GQhgdDD6HMxsaqdLl2U9uW87L0U3BsUNQaj_RWFTFrvdF72SO0sYTQS06wpb9qA2MBFUZF086LSKfUkHoTF3rxuUMZgZhUnPzy9j2HyBhXF3V-mZqd6oKaJe6hkf6MJx7usKx0x_Kw/s736/8ae0a580d704f97e27104cbb5687c28c.jpg?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040352948">
-                                       <span class="visually-hidden">Open media 8 in modal
+                                       <span class="visually-hidden">
+                                       Open media 8 in modal
                                        </span>
                                        </button>
                                     </modal-opener>
@@ -2910,7 +2919,7 @@
                            <a href="/policies/shipping-policy">Shipping</a> calculated at checkout.
                         </div>
                         <div >
-                           <form method="post" action="/cart/add" id="product-form-installment-template--17605519376564__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44033871610036">
+                           <form method="post" action="/cart/add" id="product-form-installment-template--17605519376564__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="âœ“" /><input type="hidden" name="id" value="44033871610036">
                               <input type="hidden" name="product-id" value="7986665160884" /><input type="hidden" name="section-id" value="template--17605519376564__main" />
                            </form>
                         </div>
@@ -3263,7 +3272,8 @@
                            </label>
                            <div class="price-per-item__container">
                               <quantity-input class="quantity js-qty-input" data-url="/products/iphone-17-pro-mg8h4x-a" data-section="template--17605519376564__main">
-                                 <button class="quantity__button no-js-hidden" name="minus" type="button"><span class="visually-hidden">Decrease quantity for FOR4D 🚀 Platform Digital Toto Slot Resmi & Toto Togel Online Terpercaya 2026</span>
+                                 <button class="quantity__button no-js-hidden" name="minus" type="button">
+                                    <span class="visually-hidden">Decrease quantity for FOR4D 🚀 Platform Digital Toto Slot Resmi & Toto Togel Online Terpercaya 2026</span>
                                     <svg width="8" height="3" viewBox="0 0 8 3" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M8 2.63477V0.501953H0V2.63477H8Z" fill="#121212" fill-opacity="0.75"/>
                                     </svg>
@@ -3463,7 +3473,7 @@
     <!-- SGP -->
     <div class="market-row">
       <div class="market-info">
-        <span class="market-flag">🇸🇬</span>
+        <span class="market-flag">ðŸ‡¸ðŸ‡¬</span>
         <span class="market-name">SGP Pools</span>
       </div>
       <div class="numbers-group">
@@ -3485,7 +3495,7 @@
     <!-- HK -->
     <div class="market-row">
       <div class="market-info">
-        <span class="market-flag">🇭🇰</span>
+        <span class="market-flag">ðŸ‡­ðŸ‡°</span>
         <span class="market-name">HK LOTTO</span>
       </div>
       <div class="numbers-group">
@@ -3507,7 +3517,7 @@
     <!-- SDY -->
     <div class="market-row">
       <div class="market-info">
-        <span class="market-flag">🇦🇺</span>
+        <span class="market-flag">ðŸ‡¦ðŸ‡º</span>
         <span class="market-name">SYDNEY LOTTO</span>
       </div>
       <div class="numbers-group">
@@ -3529,7 +3539,7 @@
     <!-- MACAU -->
     <div class="market-row">
       <div class="market-info">
-        <span class="market-flag">🇲🇨</span>
+        <span class="market-flag">ðŸ‡²ðŸ‡¨</span>
         <span class="market-name">MACAU</span>
       </div>
       <div class="numbers-group">
@@ -3537,7 +3547,7 @@
           <span class="num-label">2D</span>
           <div class="num-bubble" id="macau-2d">...</div>
         </div>
-        <divclass="num-box">
+        <div class="num-box">
           <span class="num-label">3D</span>
           <div class="num-bubble" id="macau-3d">...</div>
         </div>
@@ -3562,7 +3572,7 @@
               <span style="color: #f54242; font-weight: 700; display: block; margin-bottom: 2px;">Agus</span>
               <span style="color: #fff; font-weight: 600;">Rp 15.500.000</span>
             </div>
-            <span style="color: #f54242; font-size: 10px; margin-left: auto;">★</span>
+            <span style="color: #f54242; font-size: 10px; margin-left: auto;">â˜…</span>
           </div>
           <div style="display: flex; align-items: center; padding: 12px 15px; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 12px;">
             <div style="width: 32px; height: 32px; background: #222; border-radius: 50%; border: 1px solid #333; margin-right: 12px; display: flex; align-items: center; justify-content: center; color: #f54242; font-weight: bold; font-size: 10px;">HK</div>
@@ -3570,7 +3580,7 @@
               <span style="color: #f54242; font-weight: 700; display: block; margin-bottom: 2px;">Siti Rahma</span>
               <span style="color: #fff; font-weight: 600;">Rp 8.200.000</span>
             </div>
-            <span style="color: #f54242; font-size: 10px; margin-left: auto;">★</span>
+            <span style="color: #f54242; font-size: 10px; margin-left: auto;">â˜…</span>
           </div>
           <div style="display: flex; align-items: center; padding: 12px 15px; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 12px;">
             <div style="width: 32px; height: 32px; background: #222; border-radius: 50%; border: 1px solid #333; margin-right: 12px; display: flex; align-items: center; justify-content: center; color: #f54242; font-weight: bold; font-size: 10px;">MACAU</div>
@@ -3578,7 +3588,7 @@
               <span style="color: #f54242; font-weight: 700; display: block; margin-bottom: 2px;">Budi Budiman</span>
               <span style="color: #fff; font-weight: 600;">Rp 45.000.000</span>
             </div>
-            <span style="color: #f54242; font-size: 10px; margin-left: auto;">★</span>
+            <span style="color: #f54242; font-size: 10px; margin-left: auto;">â˜…</span>
           </div>
           <!-- Duplikat untuk loop -->
           <div style="display: flex; align-items: center; padding: 12px 15px; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 12px;">
@@ -3587,7 +3597,7 @@
               <span style="color: #f54242; font-weight: 700; display: block; margin-bottom: 2px;">Agus Setyadi</span>
               <span style="color: #fff; font-weight: 600;">Rp 15.500.000</span>
             </div>
-            <span style="color: #f54242; font-size: 10px; margin-left: auto;">★</span>
+            <span style="color: #f54242; font-size: 10px; margin-left: auto;">â˜…</span>
           </div>
         </div>
       </div>
@@ -3715,7 +3725,8 @@
                                     value="D-353465486A"
                                     >
                                  <input
-                                    id="total_qty_"type="hidden"
+                                    id="total_qty_"
+                                    type="hidden"
                                     value=""
                                     >
                                  <input
@@ -3725,7 +3736,7 @@
                                     >
                               </div>
                               <form method="post" action="/cart/add" id="product-form-template--17605519376564__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
-                                 <input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                                 <input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="âœ“" /><input
                                     type="hidden"
                                     id="main-product-variant"
                                     name="id"
@@ -3892,7 +3903,7 @@
                                     focusable="false"
                                     >
                                     <path
-                                       d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.3946710.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
+                                       d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.39467 10.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
                                        fill="black"
                                        />
                                  </svg>
@@ -3998,7 +4009,7 @@
   }
 
   /* Dekorasi Garis Emas Tipis di Atas */
-  .win-section::before{
+  .win-section::before {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0;
@@ -4531,7 +4542,8 @@
                                                       togel
                                                       <span class="icon-wrap">
                                                          <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path></svg>
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
                                                       </span>
                                                    </a>
                                                 </div>
@@ -4675,7 +4687,8 @@
                                              <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
                                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
                                              </svg>
-                                          </button></div>
+                                          </button>
+                                       </div>
                                     </slider-component>
                                     <div class="center small-hide medium-hide"></div>
                                  </div>
@@ -4748,7 +4761,7 @@
   }
 
   .review-author::before {
-    content: "👤";
+    content: "ðŸ‘¤";
     font-size: 1.1rem;
     filter: grayscale(100%) brightness(200%); /* Bikin emoji sedikit keemasan */
   }
@@ -4783,12 +4796,12 @@
   }
 
   .stars::before {
-    content: "★★★★★";
+    content: "â˜…â˜…â˜…â˜…â˜…";
     color: var(--star-empty);
   }
 
   .stars::after {
-    content: "★★★★★";
+    content: "â˜…â˜…â˜…â˜…â˜…";
     color: var(--star-fill);
     position: absolute;
     left: 0;
@@ -4864,7 +4877,8 @@
                                                       <summary id="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
                                                          <h3 class="accordion__title inline-richtext h4">
                                                             What do I need to bring along?
-                                                         </h3><svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
                                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
                                                          </svg>
                                                       </summary>
@@ -4930,7 +4944,7 @@
                                                    <details id="Details-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
                                                       <summary id="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
                                                          <h3 class="accordion__title inline-richtext h4">
-                                                            Would I be able to get backmy old device back after the trade-in?
+                                                            Would I be able to get back my old device back after the trade-in?
                                                          </h3>
                                                          <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
                                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
@@ -5007,7 +5021,8 @@
                                           </div>
                                           <div class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
                                              <div class="grid__item">
-                                                <div class="accordion"><details id="Details-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
                                                       <summary id="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
                                                          <h3 class="accordion__title inline-richtext h4">
                                                             Terms and Conditions
@@ -5083,7 +5098,8 @@
                                  <div class="page-width section-template--16932308091060__multicolumn_qrFXUg-padding isolate">
                                     <slider-component class="slider-mobile-gutter" style="display:block;">
                                        <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop slider slider--mobile grid--peek" id="Slider-template--16932308091060__multicolumn_qrFXUg" role="list">
-                                          <li id="Slide-template--16932308091060__multicolumn_qrFXUg-1" class="multicolumn-list__item grid__item slider__slide"><div class="multicolumn-card content-container">
+                                          <li id="Slide-template--16932308091060__multicolumn_qrFXUg-1" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
                                                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                                    <div class="media media--transparent media--square">
                                                       <img src="//www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3200" alt="Situs toto 4D ONLINE" srcset="//www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
@@ -5131,7 +5147,8 @@
                                           </button>
                                           <div class="slider-counter caption">
                                              <span class="slider-counter--current">1</span>
-                                             <span aria-hidden="true"> / </span><span class="visually-hidden">of</span>
+                                             <span aria-hidden="true"> / </span>
+                                             <span class="visually-hidden">of</span>
                                              <span class="slider-counter--total">2</span>
                                           </div>
                                           <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
@@ -5340,7 +5357,8 @@
     content: counter(step-counter);
     position: absolute;
     left: 22px;
-    top: 50%;transform: translateY(-50%);
+    top: 50%;
+    transform: translateY(-50%);
     width: 45px;
     height: 45px;
     background: linear-gradient(135deg, var(--gold-primary), var(--gold-dark));
@@ -5788,7 +5806,8 @@
                      const nmpPriceCalculation = $(this).data('priceCalculation');
                
                      if (isAppleCareAdded && isWarrantyAdded && hasTradeIn) {
-                       price = setPriceWithTradeIn('data-price-with-care-and-secWarranty', $productPrice);} else if (isAppleCareAdded && isWarrantyAdded) {
+                       price = setPriceWithTradeIn('data-price-with-care-and-secWarranty', $productPrice);
+                     } else if (isAppleCareAdded && isWarrantyAdded) {
                        price = $(this).attr('data-price-with-care-and-secWarranty');
                      } else if (isAppleCareAdded && hasTradeIn) {
                        price = setPriceWithTradeIn('data-price-with-care', $productPrice);
@@ -5945,7 +5964,8 @@
                });
             </script>
             <style data-shopify>
-               .add-on-product-style.add-on-product-style-secWarranty .care-pdp-title {/*     margin-left: 0; */
+               .add-on-product-style.add-on-product-style-secWarranty .care-pdp-title {
+               /*     margin-left: 0; */
                }
             </style>
             <style> #shopify-section-template--17605519376564__main .accordion__content p a {color: var(--color-link-dynamic-label) !important;} #shopify-section-template--17605519376564__main .popup_round_border {display: none;} </style>
@@ -6211,7 +6231,7 @@
     .testimoni-section {
       padding: 40px 15px;
     }
-    .testimoni-card{
+    .testimoni-card {
       padding: 20px;
     }
   }
@@ -6603,7 +6623,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                               href="/pages/travellers-reservation" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
-                           Traveller’s Reservation
+                           Travellerâ€™s Reservation
                            </a>
                         </li>
                      </ul>
@@ -6831,7 +6851,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="/pages/view-all-watch" target="_blank" rel="nofollow noopenernoreferrer"
+                              href="/pages/view-all-watch" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Watch
@@ -6929,7 +6949,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                               href="/pages/travellers-reservation" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
-                           Traveller’s Reservation
+                           Travellerâ€™s Reservation
                            </a>
                         </li>
                      </ul>
@@ -7091,7 +7111,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                   <div class="footer-block__newsletter">
                      <p class="footer-block__heading2 inline-richtext">Subscribe to our emails</p>
                      <form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form">
-                        <input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
+                        <input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="âœ“" /><input type="hidden" name="contact[tags]" value="newsletter">
                         <div class="emailTextBoxFooter1 newsletter-form__field-wrapper">
                            <div class="field">
                               <input
@@ -7189,7 +7209,8 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                                  </li>
                                  <li class="paymenticon list-payment__item">
                                     <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master">
-                                       <title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/>
+                                       <title id="pi-master">Mastercard</title>
+                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/>
                                        <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/>
                                        <circle fill="#EB001B" cx="15" cy="12" r="7"/>
                                        <circle fill="#F79E1B" cx="23" cy="12" r="7"/>
