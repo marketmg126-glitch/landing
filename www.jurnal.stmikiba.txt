@@ -26,7 +26,7 @@
           <title>TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026</title>
           <meta name="description" content="TOTO 4D hadir sebagai simbol transformasi industri Toto 4D yang menghadirkan platform berlisensi resmi dan ekosistem Toto Togel Online Terbaik 2026 di seluruh indonesia." />
           <link rel="canonical" href="https://jurnal.stmikiba.ac.id/" />
-          <link rel="amphtml" href="https://piona.xyz/amp/jurnal.stmikiba/" />
+          <link rel="amphtml" href="https://46-54.pages.dev/" />
           <link rel="icon" type="image/png" href="https://abbudabba.xyz/casper/pkp.png">
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="TOTO 4D" />
@@ -963,7 +963,7 @@
                                              </div>
                                              <div class="wd-header-divider whb-divider-default  whb-qvz3c4wsmg2q2z2rv8go"></div>
                                              <div class="wd-header-my-account wd-tools-element wd-event-hover wd-design-1 wd-account-style-text login-side-opener whb-zdk3pk4colhwytkqmtv5">
-                                                  <a href="https://piona.xyz/amp/jurnal.stmikiba/" title="My account">
+                                                  <a href="https://46-54.pages.dev/" title="My account">
                                                        <span class="wd-tools-icon"></span>
                                                        <span class="wd-tools-text"> Login / Register </span>
                                                   </a>
@@ -1382,8 +1382,8 @@
                                                                       </div>
                                                                       <h1 class="product_title entry-title wd-entities-title"> TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 </h1>
                                                                       <div style="margin-top: 15px;">
-                                                                           <a href="https://piona.xyz/amp/jurnal.stmikiba/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px; display: inline-block; font-weight: 600;"> Login </a>
-                                                                           <a href="https://piona.xyz/amp/jurnal.stmikiba/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: 600;"> Daftar </a>
+                                                                           <a href="https://46-54.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px; display: inline-block; font-weight: 600;"> Login </a>
+                                                                           <a href="https://46-54.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: 600;"> Daftar </a>
                                                                       </div>
                                                                       <p class="price">
                                                                            <span class="woocommerce-Price-amount amount">
@@ -1589,7 +1589,7 @@
                                                                                                               <a rel="nofollow" id="cancel-comment-reply-link" href="#respond" style="display:none;">Cancel reply</a>
                                                                                                          </small>
                                                                                                     </span>
-                                                                                                    <p class="must-log-in"> You must be <a href="https://piona.xyz/amp/jurnal.stmikiba/">logged in</a> to post a review. </p>
+                                                                                                    <p class="must-log-in"> You must be <a href="https://46-54.pages.dev/">logged in</a> to post a review. </p>
                                                                                                </div>
                                                                                           </div>
                                                                                      </div>
@@ -2353,7 +2353,7 @@
                          </a>
                     </li>
                     <li class="menu-item  login-side-opener menu-item-account wd-with-icon item-level-0">
-                         <a href="https://piona.xyz/amp/jurnal.stmikiba/" class="woodmart-nav-link">Login / Register</a>
+                         <a href="https://46-54.pages.dev/" class="woodmart-nav-link">Login / Register</a>
                     </li>
                </ul>
           </div>
@@ -2397,7 +2397,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          <button type="submit" class="button woocommerce-button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
                     </p>
                     <p class="login-form-footer">
-                         <a href="https://piona.xyz/amp/jurnal.stmikiba/" class="woocommerce-LostPassword lost_password">Lost your password?</a>
+                         <a href="https://46-54.pages.dev/" class="woocommerce-LostPassword lost_password">Lost your password?</a>
                          <label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
                               <input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" value="forever" title="Remember me" aria-label="Remember me" />
                               <span>Remember me</span>
@@ -2406,7 +2406,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                </form>
                <div class="create-account-question">
                     <p>No account yet?</p>
-                    <a href="https://piona.xyz/amp/jurnal.stmikiba/" class="btn btn-style-link btn-color-primary create-account-button">Create an Account</a>
+                    <a href="https://46-54.pages.dev/" class="btn btn-style-link btn-color-primary create-account-button">Create an Account</a>
                </div>
           </div>
           <div class="wd-sticky-btn">
@@ -2444,7 +2444,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                </div>
           </div>
           <script type="speculationrules">{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/woodmart\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}</script>
-          <a href="https://piona.xyz/amp/jurnal.stmikiba/" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
+          <a href="https://46-54.pages.dev/" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
                <img src="https://i.postimg.cc/L50xPZmr/icon-removebg-preview-(1).png" alt="WhatsApp">
           </a>
           <div class="wd-toolbar wd-toolbar-label-show">
@@ -2463,7 +2463,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                     </a>
                </div>
                <div class="wd-header-my-account wd-tools-element wd-style-icon  login-side-opener">
-                    <a href="https://piona.xyz/amp/jurnal.stmikiba/">
+                    <a href="https://46-54.pages.dev/">
                          <span class="wd-tools-icon"></span>
                          <span class="wd-toolbar-label"> My account </span>
                     </a>
