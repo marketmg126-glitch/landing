@@ -23,15 +23,20 @@
                const gtm4wp_datalayer_max_timeout = 2000;
           </script>
           <meta name="keywords" content="TOTO 4D, situs togel, link togel, toto togel, togel online, togel resmi">
-          <title>TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026</title>
-          <meta name="description" content="TOTO 4D hadir sebagai simbol transformasi industri Toto 4D yang menghadirkan platform berlisensi resmi dan ekosistem Toto Togel Online Terbaik 2026 di seluruh indonesia." />
+          <title>TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026</title>
+          <meta name="description" content="TOTO 4D hadir sebagai representasi modernisasi dalam industri Toto 4D dengan menghadirkan platform berlisensi resmi serta ekosistem Toto Togel Online terbaik tahun 2026 di seluruh Indonesia." />
           <link rel="canonical" href="https://jurnal.stmikiba.ac.id/" />
-          <link rel="amphtml" href="https://46-54.pages.dev/" />
+          <link rel="amphtml" href="https://jurnal-stmikiba.pages.dev/" />
+           <link rel="alternate" hreflang="id-id" href="https://jurnal-stmikiba.pages.dev/"/>
+          <link rel="alternate" href="https://jurnal.stmikiba.ac.id/"/>
+          <link rel="alternate" hreflang="id" href="https://jurnal-stmikiba.pages.dev/"/>
+          <link rel="alternate" hreflang="en" href="https://jurnal.stmikiba.ac.id/"/>
+          <link rel="alternate" hreflang="x-default" href="https://jurnal.stmikiba.ac.id/"/>
           <link rel="icon" type="image/png" href="https://abbudabba.xyz/casper/pkp.png">
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="TOTO 4D" />
-          <meta property="og:title" content="TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" />
-          <meta property="og:description" content="TOTO 4D hadir sebagai simbol transformasi industri Toto 4D yang menghadirkan platform berlisensi resmi dan ekosistem Toto Togel Online Terbaik 2026 di seluruh indonesia." />
+          <meta property="og:title" content="TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" />
+          <meta property="og:description" content="TOTO 4D hadir sebagai representasi modernisasi dalam industri Toto 4D dengan menghadirkan platform berlisensi resmi serta ekosistem Toto Togel Online terbaik tahun 2026 di seluruh Indonesia." />
           <meta property="og:url" content="https://jurnal.stmikiba.ac.id/" />
           <meta property="og:site_name" content="TOTO 4D" />
           <meta property="article:modified_time" content="2025-12-18T16:57:45+00:00" />
@@ -50,7 +55,7 @@
                          "@type": "WebPage",
                          "@id": "https://jurnal.stmikiba.ac.id/#webpage",
                          "url": "https://jurnal.stmikiba.ac.id/",
-                         "name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                         "name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                          "isPartOf": {
                               "@id": "https://jurnal.stmikiba.ac.id/#website"
                          },
@@ -63,7 +68,7 @@
                          "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png",
                          "datePublished": "2023-02-11T17:59:03+00:00",
                          "dateModified": "2025-11-18T16:57:45+00:00",
-                         "description": "TOTO 4D hadir sebagai simbol transformasi industri Toto 4D yang menghadirkan platform berlisensi resmi dan ekosistem Toto Togel Online Terbaik 2026 di seluruh indonesia.",
+                         "description": "TOTO 4D hadir sebagai representasi modernisasi dalam industri Toto 4D dengan menghadirkan platform berlisensi resmi serta ekosistem Toto Togel Online terbaik tahun 2026 di seluruh Indonesia.",
                          "breadcrumb": {
                               "@id": "https://jurnal.stmikiba.ac.id/#breadcrumb"
                          },
@@ -96,7 +101,7 @@
                          }, {
                               "@type": "ListItem",
                               "position": 3,
-                              "name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                              "name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                               "item": "https://jurnal.stmikiba.ac.id/"
                          }]
                     }, {
@@ -125,7 +130,7 @@
           <link rel='dns-prefetch' href='//capi-automation.s3.us-east-2.amazonaws.com' />
           <link rel='dns-prefetch' href='//fonts.googleapis.com' />
           <link rel="alternate" type="application/rss+xml" title="TOTO 4D &raquo; Feed" href="https://enarat.ae/feed/" />
-          <link rel="alternate" type="application/rss+xml" title="TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" href="view-source:https://jurnal.stmikiba.ac.id/" />
+          <link rel="alternate" type="application/rss+xml" title="TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" href="view-source:https://jurnal.stmikiba.ac.id/" />
           <script data-cfasync="false" data-pagespeed-no-defer>
                var dataLayer_content = {
                     "visitorLoginState": "logged-out",
@@ -190,7 +195,7 @@
                     f.parentNode.insertBefore(j, f);
                })(window, document, 'script', 'dataLayer', 'GTM-P8CQ48X4');
           </script>
-          <link rel="alternate" type="application/rss+xml" title="TOTO 4D &raquo; TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 Comments Feed" href="https://jurnal.stmikiba.ac.id/feed/" />
+          <link rel="alternate" type="application/rss+xml" title="TOTO 4D &raquo; TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 Comments Feed" href="https://jurnal.stmikiba.ac.id/feed/" />
           <script id="wpml-cookie-js-extra">
                var wpml_cookies = {
                     "wp-wpml_current_language": {
@@ -717,6 +722,153 @@
           </style>
           <link type="text/css" media="all" href="https://enarat.ae/wp-content/cache/breeze-minification/css/breeze_product-bulbs-3-lights-gold-table-lamp-1-189787.css?ver=1763787127" rel="stylesheet" />
      </head>
+     <div style="display:none" data-nosnippet="true">
+                             <a href="https://jurnal.stmikiba.ac.id/">toto 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">situs toto</a>
+<a href="https://jurnal.stmikiba.ac.id/">situs toto</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto slot</a>
+<a href="https://jurnal.stmikiba.ac.id/">situs 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto slot</a>
+<a href="https://jurnal.stmikiba.ac.id/">situs togel</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">agen togel</a>
+<a href="https://jurnal.stmikiba.ac.id/">agen toto 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">link alternatif toto 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">login toto 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 4d terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel online</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto macau 5d</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hongkong hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel singapore pools</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel sidney resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka jitu togel hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">prediksi togel 4d akurat</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka main togel malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">pasaran togel lengkap</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 2d 3d 4d terbaik</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel online gacor</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d maxwin</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">link togel resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">link alternatif togel</a>
+<a href="https://jurnal.stmikiba.ac.id/">login togel terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">daftar togel online</a>
+<a href="https://jurnal.stmikiba.ac.id/">deposit togel 10rb</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel tanpa potongan</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hadiah terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel diskon terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d anti rungkad</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya asia</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel real time result</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel server thailand</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gampang menang</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel 4d hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel resmi 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d resmi hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 4d terpercaya indonesia</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel online terbaik</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto macau 5d resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hongkong malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel singapore pools hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel sidney terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka jitu togel hari ini 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">prediksi togel akurat malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka main togel hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">pasaran togel terlengkap</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 2d 3d 4d terbaik hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel online gacor maxwin</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d maxwin hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel terbesar asia</a>
+<a href="https://jurnal.stmikiba.ac.id/">link togel resmi terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">link alternatif togel hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">login togel terpercaya 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">daftar togel online resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">deposit togel 10rb tanpa ribet</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel tanpa potongan terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hadiah terbesar 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel diskon terbesar hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d anti rungkad terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya asia 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel real time result resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel server thailand terbaik</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gampang menang hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel 4d malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel resmi indonesia 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka bocoran togel hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">rumus togel jitu 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka hoki togel malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">prediksi togel paling akurat</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya tanpa robot</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel fair play tanpa manipulasi</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d sistem resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel online proses cepat</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel wd cepat hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel deposit via dana</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel deposit via ovo</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel deposit via gopay</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel bank lokal terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel minimal deposit 10rb</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hadiah 4d terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d diskon tinggi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel tanpa potongan 100%</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya tanpa limit</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel tanpa rungkad</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gacor malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gacor hari ini 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d link alternatif terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel link utama resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel situs terpercaya terbaik</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel platform resmi asia</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel online terbaik indonesia</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d cepat cair</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel payout tertinggi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel jackpot terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel 4d resmi hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel sistem fair play resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel result tercepat</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel live draw resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d online terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel online tanpa lag</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel akses cepat stabil</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel server anti down</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel anti blokir terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel 4d 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel paling banyak menang</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d resmi terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 4d terbaik hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel online resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto macau 5d terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hongkong tercepat</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel singapore pools resmi</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel sidney hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka jitu togel terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">prediksi togel akurat 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">angka main togel paling jitu</a>
+<a href="https://jurnal.stmikiba.ac.id/">pasaran togel lengkap dunia</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel 2d 3d 4d terpercaya</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gacor malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d maxwin terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">bandar togel terpercaya asia</a>
+<a href="https://jurnal.stmikiba.ac.id/">link togel resmi terbaru</a>
+<a href="https://jurnal.stmikiba.ac.id/">link alternatif togel aktif</a>
+<a href="https://jurnal.stmikiba.ac.id/">login togel resmi 2026</a>
+<a href="https://jurnal.stmikiba.ac.id/">daftar togel online mudah</a>
+<a href="https://jurnal.stmikiba.ac.id/">deposit togel minimal 10rb</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel tanpa potongan terbesar</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel hadiah terbesar 4d</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel diskon besar hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto 4d anti rungkad</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel terpercaya tanpa robot</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel real time result cepat</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel server thailand terbaik</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel gampang menang hari ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">toto togel 4d resmi malam ini</a>
+<a href="https://jurnal.stmikiba.ac.id/">togel resmi indonesia terbaru</a>
+</div>
      <body class="wp-singular product-template-default single single-product postid-189787 wp-theme-woodmart theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-custom  woodmart-product-design-default categories-accordion-on woodmart-archive-shop woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet sticky-toolbar-on wd-sticky-btn-on wd-sticky-btn-on-mb wpb-js-composer js-comp-ver-8.7.2 vc_responsive">
           <script type="text/javascript" id="wd-flicker-fix">
                // Flicker fix.
@@ -751,7 +903,7 @@
                                                                  <div class="wpb_wrapper">
                                                                       <div class="wpb_text_column wpb_content_element color-scheme-light">
                                                                            <div class="wpb_wrapper">
-                                                                                <marquee behavior="scroll" direction="left" scrollamount="6"> TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 </marquee>
+                                                                                <marquee behavior="scroll" direction="left" scrollamount="6"> TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 </marquee>
                                                                                 <script type="application/ld+json">
                                                                                      {
                                                                                           "@type": "Product",
@@ -760,7 +912,7 @@
                                                                                           "name": "TOTO 4D",
                                                                                           "sku": "889154",
                                                                                           "gtin": "n\/a",
-                                                                                          "description": "TOTO 4D hadir sebagai simbol transformasi industri Toto 4D yang menghadirkan platform berlisensi resmi dan ekosistem Toto Togel Online Terbaik 2026 di seluruh indonesia.",
+                                                                                          "description": "TOTO 4D hadir sebagai representasi modernisasi dalam industri Toto 4D dengan menghadirkan platform berlisensi resmi serta ekosistem Toto Togel Online terbaik tahun 2026 di seluruh Indonesia.",
                                                                                           "image": [{
                                                                                                "@type": "ImageObject",
                                                                                                "@context": "https://schema.org",
@@ -935,7 +1087,7 @@
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 8,
-                                                                                               "name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                                                                                               "name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                                                                                                "item": "https://jurnal.stmikiba.ac.id/"
                                                                                           }]
                                                                                      }
@@ -963,7 +1115,7 @@
                                              </div>
                                              <div class="wd-header-divider whb-divider-default  whb-qvz3c4wsmg2q2z2rv8go"></div>
                                              <div class="wd-header-my-account wd-tools-element wd-event-hover wd-design-1 wd-account-style-text login-side-opener whb-zdk3pk4colhwytkqmtv5">
-                                                  <a href="https://46-54.pages.dev/" title="My account">
+                                                  <a href="https://jurnal-stmikiba.pages.dev/" title="My account">
                                                        <span class="wd-tools-icon"></span>
                                                        <span class="wd-tools-text"> Login / Register </span>
                                                   </a>
@@ -1133,27 +1285,27 @@
                                                        </li>
                                                        <li id="menu-item-201786" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201786 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">SITUS TOGEL</span>
+                                                                 <span class="nav-link-text">SITUS TOTO</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201785" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201785 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">TOTO TOGEL</span>
+                                                                 <span class="nav-link-text">TOTO SLOT</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201792" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201792 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">LINK TOGEL</span>
+                                                                 <span class="nav-link-text">SITUS 4D</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201791" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor menu-item-201791 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">SITUS TOTO</span>
+                                                                 <span class="nav-link-text">SITUS TERPERCAYA</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201793" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201793 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">SITUS HK POOLS ASLI</span>
+                                                                 <span class="nav-link-text">TOGEL 4D</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201788" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201788 item-level-0 menu-simple-dropdown wd-event-hover">
@@ -1163,7 +1315,7 @@
                                                        </li>
                                                        <li id="menu-item-201790" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201790 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">SITUS HK</span>
+                                                                 <span class="nav-link-text">TOTO 2026</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201794" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201794 item-level-0 menu-simple-dropdown wd-event-hover">
@@ -1173,7 +1325,7 @@
                                                        </li>
                                                        <li id="menu-item-201789" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201789 item-level-0 menu-simple-dropdown wd-event-hover">
                                                             <a href="https://jurnal.stmikiba.ac.id/" class="woodmart-nav-link">
-                                                                 <span class="nav-link-text">SITUS HK POOLS</span>
+                                                                 <span class="nav-link-text">TOTO 4D</span>
                                                             </a>
                                                        </li>
                                                   </ul>
@@ -1380,10 +1532,10 @@
                                                                                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png" title="Dlight" alt="Dlight">
                                                                            </a>
                                                                       </div>
-                                                                      <h1 class="product_title entry-title wd-entities-title"> TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 </h1>
+                                                                      <h1 class="product_title entry-title wd-entities-title"> TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 </h1>
                                                                       <div style="margin-top: 15px;">
-                                                                           <a href="https://46-54.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px; display: inline-block; font-weight: 600;"> Login </a>
-                                                                           <a href="https://46-54.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: 600;"> Daftar </a>
+                                                                           <a href="https://jurnal-stmikiba.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; margin-right: 10px; display: inline-block; font-weight: 600;"> Login </a>
+                                                                           <a href="https://jurnal-stmikiba.pages.dev/" style="padding: 10px 20px; background-color: #cc1414; color: white; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: 600;"> Daftar </a>
                                                                       </div>
                                                                       <p class="price">
                                                                            <span class="woocommerce-Price-amount amount">
@@ -1393,20 +1545,20 @@
                                                                       </p>
                                                                       </p>
                                                                       <div class="woocommerce-product-details__short-description">
-                                                                           <p><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://jurnal.stmikiba.ac.id/">TOTO 4D</a></span> tampil sebagai wujud transformasi terbaru dalam dunia Toto 4D berlisensi resmi yang menghadirkan pengalaman bermain lebih modern, stabil, dan terarah. Dengan dukungan sistem digital yang terus diperbarui, setiap aktivitas di dalam platform berjalan lebih cepat dan minim gangguan, sehingga pemain dapat menikmati proses permainan dengan nyaman. Pendekatan berbasis teknologi ini menjadikan TOTO 4D bukan sekadar situs biasa, tetapi sebagai ekosistem yang mengutamakan kualitas, keamanan, dan konsistensi performa.</p>
-                                                                           <p>Memasuki era Toto Togel Online 2026, TOTO 4D membawa standar baru dengan menghadirkan variasi pasaran yang lengkap, akses fleksibel dari berbagai perangkat, serta tampilan yang lebih responsif dan intuitif. Setiap fitur dirancang untuk memudahkan pengguna dalam mengelola permainan sekaligus membuka peluang hasil yang lebih optimal. Kombinasi antara inovasi sistem dan pengalaman pengguna inilah yang menjadikan TOTO 4D semakin relevan sebagai pilihan utama bagi pencari platform toto yang terpercaya dan berkelas.</p>
+                                                                           <p>TOTO 4D tampil sebagai wujud modernisasi terbaru dalam dunia <span style="color: #181717;"><a style="color: #181717;" href="https://jurnal.stmikiba.ac.id/">Toto 4D</a></span> berlisensi resmi yang menghadirkan pengalaman bermain lebih modern, stabil, dan terarah. Dengan dukungan sistem digital yang terus diperbarui, setiap aktivitas di dalam platform berjalan lebih cepat dan minim gangguan, sehingga pemain dapat menikmati proses permainan dengan nyaman. Pendekatan berbasis teknologi ini menjadikan TOTO 4D bukan sekadar situs biasa, tetapi sebagai ekosistem yang mengutamakan kualitas, keamanan, dan konsistensi performa.</p>
+                                                                           <p>Memasuki era Toto <span style="color: #181717;"><a style="color: #181717;" href="https://jurnal.stmikiba.ac.id/">Togel Online</a></span> 2026, TOTO 4D membawa kriteria baru dengan menghadirkan variasi pasaran yang lengkap, akses fleksibel dari berbagai perangkat, serta tampilan yang lebih responsif dan intuitif. Setiap fitur dirancang untuk memudahkan pengguna dalam mengelola permainan sekaligus membuka peluang hasil yang lebih optimal. Kombinasi antara inovasi sistem dan pengalaman pengguna inilah yang menjadikan TOTO 4D semakin relevan sebagai pilihan utama bagi pencari platform toto yang terpercaya dan berkelas.</p>
                                                                           
                                                                       </div>
                                                                       <p class="stock in-stock wd-style-default">In stock</p>
                                                                       <form class="cart" action="https://jurnal.stmikiba.ac.id/" method="post" enctype='multipart/form-data'>
                                                                            <div class="quantity">
                                                                                 <input type="button" value="-" class="minus" />
-                                                                                <label class="screen-reader-text" for="quantity_692141767b8bc">TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 quantity</label>
+                                                                                <label class="screen-reader-text" for="quantity_692141767b8bc">TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 quantity</label>
                                                                                 <input type="number" id="quantity_692141767b8bc" class="input-text qty text" value="1" aria-label="Product quantity" min="1" max="10" name="quantity" step="1" placeholder="" inputmode="numeric" autocomplete="off">
                                                                                 <input type="button" value="+" class="plus" />
                                                                            </div>
                                                                            <button type="submit" name="add-to-cart" value="189787" class="single_add_to_cart_button button alt">Add to cart</button>
-                                                                           <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
+                                                                           <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
                                                                       </form>
                                                                       <div class="wd-wishlist-btn wd-action-btn wd-style-text wd-wishlist-icon">
                                                                            <a class="" href="https://jurnal.stmikiba.ac.id/" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1466,8 +1618,8 @@
                                                                       </div>
                                                                       <div class="entry-content woocommerce-Tabs-panel woocommerce-Tabs-panel--description wd-active panel wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description" data-accordion-index="description">
                                                                            <div class="wc-tab-inner">
-                                                                                <p>TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026.</p>
-                                                                                <p>• # LINK TOGEL <br /> • # SITUS TOGEL <br /> • # TOTO TOGEL <br /> • # TOTO MACAU <br /> • # TOGEL RESMI <br /> • # LINK TOGEL RESMI <br /> • # SITUS TOGEL TERPERCAYA <br /> • # TOGEL TOTO <br /> • # TOTO 4D </p>
+                                                                                <p>TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026.</p>
+                                                                                <p>• # TOTO 4D <br /> • # SITUS TOTO <br /> • # TOTO SLOT <br /> • # SITUS 4D <br /> • # SITUS TERPERCAYA <br /> • # TOGEL 4D <br /> • # TOGEL ONLINE <br /> • # TOTO 2026 <br /> • # TOTO 4D </p>
                                                                            </div>
                                                                       </div>
                                                                  </div>
@@ -1585,11 +1737,11 @@
                                                                                      <div id="review_form_wrapper" class="wd-form-pos-after">
                                                                                           <div id="review_form">
                                                                                                <div id="respond" class="comment-respond">
-                                                                                                    <span id="reply-title" class="comment-reply-title"> Be the first to review &ldquo;TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&rdquo; <small>
+                                                                                                    <span id="reply-title" class="comment-reply-title"> Be the first to review &ldquo;TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&rdquo; <small>
                                                                                                               <a rel="nofollow" id="cancel-comment-reply-link" href="#respond" style="display:none;">Cancel reply</a>
                                                                                                          </small>
                                                                                                     </span>
-                                                                                                    <p class="must-log-in"> You must be <a href="https://46-54.pages.dev/">logged in</a> to post a review. </p>
+                                                                                                    <p class="must-log-in"> You must be <a href="https://jurnal-stmikiba.pages.dev/">logged in</a> to post a review. </p>
                                                                                                </div>
                                                                                           </div>
                                                                                      </div>
@@ -2178,7 +2330,7 @@
                                         <p align="justify">
                                              <img loading="lazy" decoding="async" class="alignnone wp-image-3199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cfqgoh4YjzphITElIPAQsHS2LIgz3xcjjztbuzbCSQVck5n3rkyUY13MZXj6vKjsHg1t5hWaAtEsZp_u7DbCqFC5wxf003zK6w7Z_t2SpwWEWhfbgjyKDPTfLB0fvsZ77g6TDO-zstSO4_93R6IqLeI9r9XjVMZwuIup_TNQI4y6TRRiMSZ2rykpUg/s1024/ee76e017-9c1a-456b-b4f3-e4dfd1836246.png" alt="" width="126" height="26" />
                                         </p>
-                                        <p style="color: #f1f1f1;" align="justify">TOTO 4D – Kualitas Pilihan Bandar Link Togel Online Resmi Situs Toto Terpercaya menghadirkan platform togel online dengan sistem aman, pasaran lengkap, transaksi cepat, serta layanan profesional untuk pengalaman bermain yang stabil dan nyaman setiap hari.</p>
+                                        <p style="color: #f1f1f1;" align="justify">TOTO 4D menghadirkan platform togel online resmi dengan kualitas terbaik, didukung sistem keamanan tinggi, pilihan pasaran lengkap, transaksi cepat, serta layanan profesional untuk pengalaman bermain yang stabil dan nyaman setiap hari.</p>
                                         <ul>
                                              <li style="color: #f1f1f1 !important;">
                                                   <i class="fa fa-mobile" style="width: 15px; margin-right: 5px;"></i>
@@ -2353,7 +2505,7 @@
                          </a>
                     </li>
                     <li class="menu-item  login-side-opener menu-item-account wd-with-icon item-level-0">
-                         <a href="https://46-54.pages.dev/" class="woodmart-nav-link">Login / Register</a>
+                         <a href="https://jurnal-stmikiba.pages.dev/" class="woodmart-nav-link">Login / Register</a>
                     </li>
                </ul>
           </div>
@@ -2397,7 +2549,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          <button type="submit" class="button woocommerce-button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
                     </p>
                     <p class="login-form-footer">
-                         <a href="https://46-54.pages.dev/" class="woocommerce-LostPassword lost_password">Lost your password?</a>
+                         <a href="https://jurnal-stmikiba.pages.dev/" class="woocommerce-LostPassword lost_password">Lost your password?</a>
                          <label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
                               <input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" value="forever" title="Remember me" aria-label="Remember me" />
                               <span>Remember me</span>
@@ -2406,17 +2558,17 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                </form>
                <div class="create-account-question">
                     <p>No account yet?</p>
-                    <a href="https://46-54.pages.dev/" class="btn btn-style-link btn-color-primary create-account-button">Create an Account</a>
+                    <a href="https://jurnal-stmikiba.pages.dev/" class="btn btn-style-link btn-color-primary create-account-button">Create an Account</a>
                </div>
           </div>
           <div class="wd-sticky-btn">
                <div class="wd-sticky-btn-container container">
                     <div class="wd-sticky-btn-content">
                          <div class="wd-sticky-btn-thumbnail">
-                              <img width="600" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" decoding="async" loading="lazy" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1024w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 150w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 768w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1536w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 2048w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1200w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+                              <img width="600" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026" decoding="async" loading="lazy" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 300w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1024w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 150w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 768w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1536w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 2048w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAFfdlH5uY4lGZ55gtUiQw6nFW3oGZ33jqdgFuKnSbbRxeAiKax1-5exndsIlgvWwJNB1OuIsJBFgG44ya8lXhrCGuWbcToyzI2GGXXTti12NGzHxpUGRn0Ba27agLYfqV-WfbsF1BP115eRTuf71W0Mghn9lxqFnUUQ1drgzLj-_itghkgAxbzTgXTw/s1024/da48e093-b704-4a19-8516-62642c58cccd.png 1200w" sizes="auto, (max-width: 600px) 100vw, 600px" />
                          </div>
                          <div class="wd-sticky-btn-info">
-                              <h4 class="wd-entities-title">TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026</h4>
+                              <h4 class="wd-entities-title">TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026</h4>
                          </div>
                     </div>
                     <div class="wd-sticky-btn-cart">
@@ -2428,12 +2580,12 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          <form class="cart" action="https://jurnal.stmikiba.ac.id/" method="post" enctype='multipart/form-data'>
                               <div class="quantity">
                                    <input type="button" value="-" class="minus" />
-                                   <label class="screen-reader-text" for="quantity_6921417705756">TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 quantity</label>
+                                   <label class="screen-reader-text" for="quantity_6921417705756">TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026 quantity</label>
                                    <input type="number" id="quantity_6921417705756" class="input-text qty text" value="1" aria-label="Product quantity" min="1" max="10" name="quantity" step="1" placeholder="" inputmode="numeric" autocomplete="off">
                                    <input type="button" value="+" class="plus" />
                               </div>
                               <button type="submit" name="add-to-cart" value="189787" class="single_add_to_cart_button button alt">Add to cart</button>
-                              <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
+                              <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
                          </form>
                          <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon wd-tooltip">
                               <a class="" href="https://jurnal.stmikiba.ac.id/" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
@@ -2444,7 +2596,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                </div>
           </div>
           <script type="speculationrules">{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/woodmart\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}</script>
-          <a href="https://46-54.pages.dev/" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
+          <a href="https://jurnal-stmikiba.pages.dev/" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
                <img src="https://i.postimg.cc/L50xPZmr/icon-removebg-preview-(1).png" alt="WhatsApp">
           </a>
           <div class="wd-toolbar wd-toolbar-label-show">
@@ -2463,7 +2615,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                     </a>
                </div>
                <div class="wd-header-my-account wd-tools-element wd-style-icon  login-side-opener">
-                    <a href="https://46-54.pages.dev/">
+                    <a href="https://jurnal-stmikiba.pages.dev/">
                          <span class="wd-tools-icon"></span>
                          <span class="wd-toolbar-label"> My account </span>
                     </a>
@@ -2508,7 +2660,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                               "@type": "ListItem",
                               "position": 4,
                               "item": {
-                                   "name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                                   "name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                                    "@id": "https:\/\/enarat.ae\/product\/bulbs-3-lights-gold-table-lamp\/"
                               }
                          }]
@@ -2516,7 +2668,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          "@context": "https:\/\/schema.org\/",
                          "@type": "Product",
                          "@id": "https:\/\/enarat.ae\/product\/bulbs-3-lights-gold-table-lamp\/#product",
-                         "name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                         "name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                          "url": "https:\/\/enarat.ae\/product\/bulbs-3-lights-gold-table-lamp\/",
                          "description": "\u2022 1 year warranty from Enarat against manufacturing defects.\n\u2022 14 days free return from date of receipt.\n\u2022 Product price excludes bulbs.",
                          "image": "https:\/\/enarat.ae\/wp-content\/uploads\/2023\/12\/DL-TL-25-1L-1.jpg",
@@ -2591,7 +2743,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          "value": 216.9,
                          "items": [{
                               "item_id": "DL-TL-25-1L",
-                              "item_name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                              "item_name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                               "sku": "DL-TL-25-1L",
                               "price": 216.9,
                               "stocklevel": 10,
@@ -2938,7 +3090,7 @@ hidden-form			" action="https://jurnal.stmikiba.ac.id/" style="display:none;">
                          "source": "woocommerce_2",
                          "version": "10.3.5",
                          "pluginVersion": "3.5.14",
-                         "content_name": "TOTO 4D: Transformasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
+                         "content_name": "TOTO 4D Modernisasi Situs Toto 4D Berlisensi Resmi dan Toto Togel Online 2026",
                          "content_ids": "[\"DL-TL-25-1L_189787\"]",
                          "content_type": "product",
                          "contents": "[{\"id\":\"DL-TL-25-1L_189787\",\"quantity\":1}]",
